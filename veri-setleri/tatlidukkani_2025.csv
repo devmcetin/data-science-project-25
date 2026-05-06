@@ -1,0 +1,366 @@
+Tarih,Sube,Musteri_ID,Urun_Kategorisi,Urun_Adi,Miktar,Birim_Fiyat,Toplam_Tutar,Musteri_Tipi,Odeme_Yontemi
+2025-01-01,Şişli,M0190,Pasta,Cheesecake,5,270.62,1353.1,Misafir,Yemek Kartı
+2025-01-02,Beşiktaş,M0145,Kek,Havuçlu Kek,7,110.77,697.85,Üye,Kredi Kartı
+2025-01-02,Şişli,M0095,İçecek,Latte,5,81.13,365.08,Üye,Kredi Kartı
+2025-01-04,Beşiktaş,M0172,Pasta,Yaş Pasta,3,334.75,1004.25,Misafir,Yemek Kartı
+2025-01-05,Üsküdar,M0162,Kek,Çikolatalı Kek,1,127.89,115.1,Üye,Yemek Kartı
+2025-01-05,Üsküdar,M0179,İçecek,Espresso,2,44.79,89.58,Misafir,Kredi Kartı
+2025-01-05,Bakırköy,M0100,Kek,Çikolatalı Kek,8,113.92,911.36,Misafir,Kredi Kartı
+2025-01-07,Bakırköy,M0080,Kek,Havuçlu Kek,5,116.19,580.95,Misafir,Yemek Kartı
+2025-01-11,Bakırköy,M0137,Dondurma,Meyveli Bardak,8,73.2,585.6,Misafir,Banka Kartı
+2025-01-12,Bakırköy,M0066,Kek,Limonlu Kek,4,98.6,394.4,Misafir,Yemek Kartı
+2025-01-14,Şişli,M0078,Dondurma,Çikolatalı Top,1,43.75,43.75,Misafir,Banka Kartı
+2025-01-14,Üsküdar,M0003,Kek,Limonlu Kek,3,109.96,329.88,Misafir,Banka Kartı
+2025-01-15,Üsküdar,M0138,Pasta,Yaş Pasta,1,327.4,327.4,Misafir,Banka Kartı
+2025-01-15,Bakırköy,M0160,Pasta,Cheesecake,6,278.23,1669.38,Misafir,Yemek Kartı
+2025-01-17,Beşiktaş,M0024,Pasta,Mille Feuille,6,181.86,982.04,Üye,Nakit
+2025-01-18,Şişli,M0073,Kurabiye,Yulaflı Kurabiye,1,19.02,19.02,Misafir,Kredi Kartı
+2025-01-19,Bakırköy,M0129,Kek,Havuçlu Kek,4,119.84,431.42,Üye,Yemek Kartı
+2025-01-19,Beşiktaş,M0034,İçecek,Sıcak Çikolata,2,74.83,149.66,Misafir,Yemek Kartı
+2025-01-20,Şişli,M0117,Kurabiye,Yulaflı Kurabiye,6,19.69,106.33,Üye,Yemek Kartı
+2025-01-20,Üsküdar,M0078,Dondurma,Vanilya Cone,1,40.84,36.76,Üye,Banka Kartı
+2025-01-24,Beşiktaş,M0116,İçecek,Sıcak Çikolata,2,68.73,123.71,Üye,Banka Kartı
+2025-01-24,Beşiktaş,M0151,Dondurma,Çikolatalı Top,6,51.23,307.38,Misafir,Nakit
+2025-01-25,Üsküdar,M0196,Pasta,Mille Feuille,2,177.98,320.36,Üye,Banka Kartı
+2025-01-25,Kadıköy,M0140,Dondurma,Vanilya Cone,2,41.86,75.35,Üye,Banka Kartı
+2025-01-26,Üsküdar,M0077,İçecek,Espresso,3,52.19,140.91,Üye,Yemek Kartı
+2025-01-26,Üsküdar,M0197,Kurabiye,Beyaz Çikolatalı,2,29.87,59.74,Misafir,Yemek Kartı
+2025-01-28,Üsküdar,M0088,Pasta,Cheesecake,8,258.62,2068.96,Misafir,Nakit
+2025-01-30,Beşiktaş,M0033,Pasta,Mille Feuille,3,156.45,469.35,Misafir,Yemek Kartı
+2025-01-31,Beşiktaş,M0063,Pasta,Cheesecake,2,289.99,521.98,Üye,Nakit
+2025-01-31,Şişli,M0186,İçecek,Espresso,8,51.58,412.64,Misafir,Kredi Kartı
+2025-01-31,Beşiktaş,M0170,Dondurma,Çikolatalı Top,5,50.66,253.3,Misafir,Nakit
+2025-02-01,Bakırköy,M0149,Kek,Havuçlu Kek,2,102.65,184.77,Üye,Banka Kartı
+2025-02-01,Şişli,M0066,Kurabiye,Çikolatalı Kurabiye,8,26.05,208.4,Misafir,Kredi Kartı
+2025-02-01,Beşiktaş,M0166,Kek,Havuçlu Kek,4,104.18,375.05,Üye,Nakit
+2025-02-03,Üsküdar,M0099,Pasta,Cheesecake,4,239.64,862.7,Üye,Kredi Kartı
+2025-02-05,Kadıköy,M0081,Pasta,Cheesecake,3,286.72,860.16,Misafir,Banka Kartı
+2025-02-05,Üsküdar,M0135,Kek,Limonlu Kek,3,95.54,286.62,Misafir,Yemek Kartı
+2025-02-08,Bakırköy,M0192,Pasta,Mille Feuille,5,161.54,726.93,Üye,Yemek Kartı
+2025-02-09,Beşiktaş,M0188,Dondurma,Meyveli Bardak,1,67.8,67.8,Misafir,Banka Kartı
+2025-02-09,Şişli,M0158,Dondurma,Meyveli Bardak,7,60.67,382.22,Üye,Nakit
+2025-02-10,Kadıköy,M0171,Pasta,Mille Feuille,5,171.7,858.5,Misafir,Nakit
+2025-02-11,Kadıköy,M0135,İçecek,Filtre Kahve,6,59.67,322.22,Üye,Banka Kartı
+2025-02-11,Şişli,M0066,Dondurma,Vanilya Cone,5,42.5,212.5,Misafir,Kredi Kartı
+2025-02-14,Şişli,M0176,Kurabiye,Beyaz Çikolatalı,3,28.35,76.55,Üye,Yemek Kartı
+2025-02-15,Şişli,M0004,Kek,Havuçlu Kek,3,117.02,315.95,Üye,Yemek Kartı
+2025-02-16,Beşiktaş,M0149,İçecek,Sıcak Çikolata,6,68.52,411.12,Misafir,Kredi Kartı
+2025-02-17,Bakırköy,M0144,Dondurma,Meyveli Bardak,2,65.21,117.38,Üye,Yemek Kartı
+2025-02-18,Şişli,M0151,Dondurma,Meyveli Bardak,1,64.84,58.36,Üye,Banka Kartı
+2025-02-18,Şişli,M0092,Kek,Çikolatalı Kek,8,133.18,1065.44,Misafir,Banka Kartı
+2025-02-18,Kadıköy,M0059,Kek,Çikolatalı Kek,7,126.39,796.26,Üye,Nakit
+2025-02-19,Üsküdar,M0104,Kek,Çikolatalı Kek,7,125.81,880.67,Misafir,Kredi Kartı
+2025-02-20,Beşiktaş,M0047,Dondurma,Vanilya Cone,5,40.96,184.32,Üye,Nakit
+2025-02-21,Bakırköy,M0061,Dondurma,Çikolatalı Top,5,50.86,228.87,Üye,Yemek Kartı
+2025-02-22,Şişli,M0193,İçecek,Espresso,10,47.61,476.1,Misafir,Yemek Kartı
+2025-02-22,Üsküdar,M0163,İçecek,Espresso,7,43.45,273.74,Üye,Banka Kartı
+2025-02-23,Şişli,M0106,Dondurma,Vanilya Cone,5,39.37,196.85,Misafir,Nakit
+2025-02-24,Bakırköy,M0161,Kek,Limonlu Kek,8,114.62,916.96,Misafir,Banka Kartı
+2025-02-24,Şişli,M0015,Pasta,Yaş Pasta,4,318.23,1145.63,Üye,Banka Kartı
+2025-02-25,Kadıköy,M0040,Kek,Havuçlu Kek,1,116.64,104.98,Üye,Yemek Kartı
+2025-02-26,Kadıköy,M0016,Kurabiye,Yulaflı Kurabiye,7,18.14,126.98,Misafir,Yemek Kartı
+2025-02-27,Beşiktaş,M0162,İçecek,Sıcak Çikolata,2,69.59,125.26,Üye,Nakit
+2025-03-02,Şişli,M0080,Dondurma,Çikolatalı Top,6,51.92,280.37,Üye,Banka Kartı
+2025-03-03,Üsküdar,M0147,Kek,Çikolatalı Kek,4,131.47,473.29,Üye,Banka Kartı
+2025-03-03,Kadıköy,M0200,İçecek,Latte,6,77.6,419.04,Üye,Banka Kartı
+2025-03-04,Beşiktaş,M0062,İçecek,Sıcak Çikolata,4,71.19,256.28,Üye,Banka Kartı
+2025-03-04,Üsküdar,M0029,Pasta,Yaş Pasta,8,357.78,2576.02,Üye,Nakit
+2025-03-05,Üsküdar,M0004,Kek,Limonlu Kek,4,101.79,366.44,Üye,Kredi Kartı
+2025-03-05,Bakırköy,M0073,Pasta,Yaş Pasta,5,366.79,1650.56,Üye,Nakit
+2025-03-05,Kadıköy,M0189,Kurabiye,Yulaflı Kurabiye,6,20.8,124.8,Misafir,Yemek Kartı
+2025-03-08,Şişli,M0176,İçecek,Espresso,5,49.64,223.38,Üye,Banka Kartı
+2025-03-08,Şişli,M0167,Kurabiye,Beyaz Çikolatalı,3,27.69,74.76,Üye,Banka Kartı
+2025-03-09,Şişli,M0021,Pasta,Mille Feuille,3,185.96,502.09,Üye,Kredi Kartı
+2025-03-12,Bakırköy,M0174,İçecek,Sıcak Çikolata,2,78.04,156.08,Misafir,Yemek Kartı
+2025-03-13,Şişli,M0164,İçecek,Espresso,4,45.18,180.72,Misafir,Kredi Kartı
+2025-03-13,Bakırköy,M0105,İçecek,Sıcak Çikolata,5,77.86,389.3,Misafir,Yemek Kartı
+2025-03-13,Şişli,M0004,Kek,Havuçlu Kek,8,108.84,783.65,Üye,Yemek Kartı
+2025-03-14,Beşiktaş,M0001,Kurabiye,Yulaflı Kurabiye,4,18.32,65.95,Üye,Nakit
+2025-03-14,Şişli,M0163,Pasta,Cheesecake,8,267.73,1927.66,Üye,Kredi Kartı
+2025-03-15,Beşiktaş,M0141,Dondurma,Vanilya Cone,1,40.8,36.72,Üye,Nakit
+2025-03-17,Beşiktaş,M0031,Pasta,Yaş Pasta,3,348.92,1046.76,Misafir,Yemek Kartı
+2025-03-17,Üsküdar,M0085,Kurabiye,Beyaz Çikolatalı,3,29.5,88.5,Misafir,Nakit
+2025-03-18,Bakırköy,M0039,Kek,Çikolatalı Kek,6,118.7,640.98,Üye,Kredi Kartı
+2025-03-20,Beşiktaş,M0174,Kek,Havuçlu Kek,5,106.22,531.1,Misafir,Kredi Kartı
+2025-03-21,Bakırköy,M0150,Kek,Limonlu Kek,3,100.51,301.53,Misafir,Nakit
+2025-03-22,Üsküdar,M0150,İçecek,Filtre Kahve,6,55.15,330.9,Misafir,Nakit
+2025-03-22,Bakırköy,M0061,Kek,Limonlu Kek,1,115.08,115.08,Misafir,Kredi Kartı
+2025-03-24,Beşiktaş,M0130,İçecek,Sıcak Çikolata,3,70.79,212.37,Misafir,Yemek Kartı
+2025-03-26,Şişli,M0025,İçecek,Filtre Kahve,2,62.86,113.15,Üye,Yemek Kartı
+2025-03-26,Kadıköy,M0023,Kek,Limonlu Kek,2,114.11,205.4,Üye,Yemek Kartı
+2025-03-26,Kadıköy,M0054,Kek,Havuçlu Kek,8,113.89,820.01,Üye,Yemek Kartı
+2025-03-27,Beşiktaş,M0193,Dondurma,Çikolatalı Top,3,47.77,143.31,Misafir,Nakit
+2025-03-28,Üsküdar,M0024,Pasta,Yaş Pasta,4,352.2,1267.92,Üye,Kredi Kartı
+2025-03-30,Şişli,M0082,Dondurma,Çikolatalı Top,4,44.65,178.6,Misafir,Nakit
+2025-03-30,Bakırköy,M0140,Pasta,Tiramisu,3,208.21,562.17,Üye,Banka Kartı
+2025-03-31,Şişli,M0066,İçecek,Filtre Kahve,4,57.61,207.4,Üye,Nakit
+2025-03-31,Bakırköy,M0146,Kek,Havuçlu Kek,8,106.93,855.44,Misafir,Banka Kartı
+2025-04-01,Kadıköy,M0194,Kurabiye,Yulaflı Kurabiye,7,18.76,131.32,Misafir,Banka Kartı
+2025-04-03,Şişli,M0067,Kurabiye,Çikolatalı Kurabiye,4,21.95,79.02,Üye,Yemek Kartı
+2025-04-04,Şişli,M0135,İçecek,Sıcak Çikolata,4,76.17,304.68,Misafir,Nakit
+2025-04-04,Şişli,M0135,Pasta,Mille Feuille,1,166.73,166.73,Misafir,Kredi Kartı
+2025-04-04,Kadıköy,M0193,İçecek,Espresso,8,46.38,333.94,Üye,Banka Kartı
+2025-04-06,Üsküdar,M0107,Kurabiye,Çikolatalı Kurabiye,1,25.41,22.87,Üye,Yemek Kartı
+2025-04-07,Bakırköy,M0147,Dondurma,Çikolatalı Top,1,47.09,42.38,Üye,Nakit
+2025-04-08,Şişli,M0106,Kek,Çikolatalı Kek,6,114.53,687.18,Misafir,Nakit
+2025-04-08,Şişli,M0039,Pasta,Cheesecake,6,262.5,1417.5,Üye,Kredi Kartı
+2025-04-09,Şişli,M0030,İçecek,Sıcak Çikolata,5,64.97,324.85,Misafir,Nakit
+2025-04-09,Üsküdar,M0195,İçecek,Espresso,1,43.05,43.05,Misafir,Yemek Kartı
+2025-04-11,Bakırköy,M0031,Pasta,Tiramisu,2,193.83,348.89,Üye,Yemek Kartı
+2025-04-12,Üsküdar,M0099,Kurabiye,Çikolatalı Kurabiye,7,22.93,144.46,Üye,Nakit
+2025-04-13,Kadıköy,M0166,Pasta,Yaş Pasta,5,331.02,1655.1,Misafir,Nakit
+2025-04-13,Şişli,M0014,Kurabiye,Çikolatalı Kurabiye,8,26.08,187.78,Üye,Yemek Kartı
+2025-04-13,Şişli,M0092,Kek,Limonlu Kek,2,99.11,178.4,Üye,Yemek Kartı
+2025-04-14,Üsküdar,M0091,İçecek,Latte,3,85.12,255.36,Misafir,Nakit
+2025-04-15,Beşiktaş,M0085,Kurabiye,Çikolatalı Kurabiye,1,25.41,25.41,Misafir,Banka Kartı
+2025-04-16,Beşiktaş,M0051,Pasta,Cheesecake,6,283.64,1701.84,Misafir,Banka Kartı
+2025-04-16,Kadıköy,M0107,Dondurma,Meyveli Bardak,7,73.0,459.9,Üye,Yemek Kartı
+2025-04-16,Kadıköy,M0167,Dondurma,Vanilya Cone,5,45.65,205.43,Üye,Yemek Kartı
+2025-04-18,Beşiktaş,M0019,İçecek,Sıcak Çikolata,6,73.16,395.06,Üye,Yemek Kartı
+2025-04-20,Beşiktaş,M0161,Dondurma,Vanilya Cone,5,46.23,208.03,Üye,Kredi Kartı
+2025-04-20,Beşiktaş,M0114,Pasta,Yaş Pasta,1,351.27,316.14,Üye,Nakit
+2025-04-23,Bakırköy,M0163,Kek,Havuçlu Kek,8,102.44,737.57,Üye,Kredi Kartı
+2025-04-23,Üsküdar,M0071,Dondurma,Çikolatalı Top,6,44.29,239.17,Üye,Nakit
+2025-04-26,Üsküdar,M0087,Pasta,Cheesecake,4,293.97,1175.88,Misafir,Banka Kartı
+2025-04-29,Şişli,M0084,İçecek,Filtre Kahve,1,58.31,58.31,Misafir,Kredi Kartı
+2025-04-29,Şişli,M0190,Pasta,Yaş Pasta,8,323.25,2586.0,Misafir,Banka Kartı
+2025-04-29,Üsküdar,M0174,İçecek,Espresso,5,48.15,216.68,Üye,Nakit
+2025-05-01,Beşiktaş,M0095,Dondurma,Çikolatalı Top,1,43.86,43.86,Misafir,Banka Kartı
+2025-05-04,Kadıköy,M0162,Dondurma,Meyveli Bardak,7,71.75,452.03,Üye,Kredi Kartı
+2025-05-04,Beşiktaş,M0107,Kek,Limonlu Kek,7,100.64,704.48,Misafir,Kredi Kartı
+2025-05-04,Bakırköy,M0069,Kek,Çikolatalı Kek,4,129.49,466.16,Üye,Banka Kartı
+2025-05-04,Bakırköy,M0198,Pasta,Cheesecake,4,255.54,919.94,Üye,Yemek Kartı
+2025-05-07,Bakırköy,M0168,Kek,Çikolatalı Kek,6,124.92,674.57,Üye,Yemek Kartı
+2025-05-07,Bakırköy,M0165,Pasta,Cheesecake,2,251.69,453.04,Üye,Nakit
+2025-05-09,Üsküdar,M0082,Pasta,Tiramisu,2,225.43,405.77,Üye,Nakit
+2025-05-10,Şişli,M0089,Pasta,Tiramisu,8,205.39,1478.81,Üye,Kredi Kartı
+2025-05-11,Kadıköy,M0140,Dondurma,Vanilya Cone,6,43.07,258.42,Misafir,Yemek Kartı
+2025-05-12,Kadıköy,M0118,Dondurma,Çikolatalı Top,7,45.47,318.29,Misafir,Yemek Kartı
+2025-05-12,Bakırköy,M0044,Dondurma,Vanilya Cone,1,43.93,39.54,Üye,Banka Kartı
+2025-05-13,Bakırköy,M0184,İçecek,Sıcak Çikolata,2,74.44,133.99,Üye,Kredi Kartı
+2025-05-13,Üsküdar,M0009,İçecek,Sıcak Çikolata,7,73.36,513.52,Misafir,Yemek Kartı
+2025-05-14,Kadıköy,M0132,Kurabiye,Yulaflı Kurabiye,6,20.31,121.86,Misafir,Yemek Kartı
+2025-05-15,Kadıköy,M0028,Kurabiye,Yulaflı Kurabiye,7,17.62,111.01,Üye,Kredi Kartı
+2025-05-16,Şişli,M0166,Kek,Limonlu Kek,7,111.37,779.59,Misafir,Nakit
+2025-05-17,Bakırköy,M0017,Kurabiye,Yulaflı Kurabiye,4,19.21,69.16,Üye,Nakit
+2025-05-17,Üsküdar,M0113,Kek,Havuçlu Kek,6,118.59,711.54,Misafir,Nakit
+2025-05-17,Kadıköy,M0113,Kek,Havuçlu Kek,7,122.23,770.05,Üye,Kredi Kartı
+2025-05-18,Kadıköy,M0112,İçecek,Latte,1,88.55,88.55,Misafir,Banka Kartı
+2025-05-18,Üsküdar,M0031,Kurabiye,Beyaz Çikolatalı,8,26.91,215.28,Misafir,Nakit
+2025-05-18,Beşiktaş,M0086,İçecek,Espresso,1,45.43,40.89,Üye,Kredi Kartı
+2025-05-19,Kadıköy,M0145,Kek,Limonlu Kek,5,107.01,481.54,Üye,Kredi Kartı
+2025-05-19,Şişli,M0196,Pasta,Mille Feuille,4,161.51,581.44,Üye,Kredi Kartı
+2025-05-22,Bakırköy,M0116,Dondurma,Meyveli Bardak,7,59.97,419.79,Misafir,Banka Kartı
+2025-05-24,Kadıköy,M0166,Dondurma,Meyveli Bardak,3,72.53,195.83,Üye,Kredi Kartı
+2025-05-26,Bakırköy,M0082,Kek,Limonlu Kek,7,110.51,696.21,Üye,Banka Kartı
+2025-05-26,Kadıköy,M0037,Kek,Limonlu Kek,5,102.73,462.28,Üye,Kredi Kartı
+2025-05-27,Üsküdar,M0193,Dondurma,Çikolatalı Top,8,52.27,418.16,Misafir,Yemek Kartı
+2025-05-27,Şişli,M0145,Kurabiye,Yulaflı Kurabiye,8,20.81,149.83,Üye,Kredi Kartı
+2025-05-27,Üsküdar,M0120,Kek,Limonlu Kek,8,99.07,792.56,Misafir,Banka Kartı
+2025-05-29,Üsküdar,M0041,Dondurma,Vanilya Cone,3,42.26,126.78,Misafir,Yemek Kartı
+2025-05-31,Beşiktaş,M0176,Dondurma,Çikolatalı Top,6,45.96,248.18,Üye,Yemek Kartı
+2025-05-31,Beşiktaş,M0178,Pasta,Cheesecake,6,278.21,1669.26,Misafir,Nakit
+2025-06-02,Üsküdar,M0117,Kurabiye,Beyaz Çikolatalı,8,27.54,220.32,Misafir,Nakit
+2025-06-03,Üsküdar,M0082,Dondurma,Meyveli Bardak,3,71.84,215.52,Misafir,Banka Kartı
+2025-06-05,Bakırköy,M0105,Pasta,Yaş Pasta,4,320.54,1153.94,Üye,Kredi Kartı
+2025-06-08,Şişli,M0019,Dondurma,Çikolatalı Top,10,46.2,462.0,Misafir,Nakit
+2025-06-10,Beşiktaş,M0085,İçecek,Filtre Kahve,4,57.51,230.04,Misafir,Banka Kartı
+2025-06-11,Şişli,M0186,Kek,Çikolatalı Kek,2,135.84,271.68,Misafir,Kredi Kartı
+2025-06-11,Üsküdar,M0159,Pasta,Tiramisu,3,188.15,564.45,Misafir,Banka Kartı
+2025-06-12,Üsküdar,M0131,Kurabiye,Çikolatalı Kurabiye,8,22.24,177.92,Misafir,Yemek Kartı
+2025-06-12,Şişli,M0097,İçecek,Sıcak Çikolata,1,73.85,66.47,Üye,Nakit
+2025-06-13,Kadıköy,M0179,Dondurma,Vanilya Cone,8,46.67,373.36,Misafir,Banka Kartı
+2025-06-14,Kadıköy,M0084,Pasta,Cheesecake,3,265.0,795.0,Misafir,Banka Kartı
+2025-06-14,Bakırköy,M0162,Kurabiye,Beyaz Çikolatalı,7,29.68,186.98,Üye,Yemek Kartı
+2025-06-18,Beşiktaş,M0127,Kurabiye,Çikolatalı Kurabiye,8,21.74,173.92,Misafir,Banka Kartı
+2025-06-18,Kadıköy,M0095,İçecek,Sıcak Çikolata,8,70.26,505.87,Üye,Nakit
+2025-06-18,Üsküdar,M0070,Pasta,Mille Feuille,1,173.83,156.45,Üye,Kredi Kartı
+2025-06-18,Kadıköy,M0077,Dondurma,Vanilya Cone,10,46.14,415.26,Üye,Nakit
+2025-06-21,Beşiktaş,M0086,İçecek,Filtre Kahve,8,59.43,427.9,Üye,Kredi Kartı
+2025-06-22,Bakırköy,M0085,İçecek,Espresso,3,49.23,132.92,Üye,Banka Kartı
+2025-06-22,Kadıköy,M0126,Pasta,Yaş Pasta,8,301.59,2412.72,Misafir,Banka Kartı
+2025-06-23,Üsküdar,M0085,Dondurma,Çikolatalı Top,12,45.1,541.2,Misafir,Yemek Kartı
+2025-06-24,Beşiktaş,M0093,Pasta,Yaş Pasta,5,341.08,1705.4,Misafir,Kredi Kartı
+2025-06-27,Beşiktaş,M0181,Kurabiye,Beyaz Çikolatalı,3,30.2,81.54,Üye,Nakit
+2025-06-29,Şişli,M0011,Dondurma,Vanilya Cone,10,45.59,455.9,Misafir,Yemek Kartı
+2025-06-30,Üsküdar,M0047,Kek,Havuçlu Kek,7,121.6,851.2,Misafir,Kredi Kartı
+2025-07-02,Üsküdar,M0113,İçecek,Espresso,5,49.16,221.22,Üye,Nakit
+2025-07-03,Bakırköy,M0051,Kek,Limonlu Kek,2,100.93,201.86,Misafir,Nakit
+2025-07-04,Kadıköy,M0200,Kurabiye,Beyaz Çikolatalı,5,29.4,132.3,Üye,Yemek Kartı
+2025-07-04,Beşiktaş,M0095,İçecek,Latte,3,94.47,255.07,Üye,Nakit
+2025-07-05,Bakırköy,M0092,Pasta,Mille Feuille,7,174.67,1100.42,Üye,Kredi Kartı
+2025-07-05,Şişli,M0153,Kek,Çikolatalı Kek,5,111.51,557.55,Misafir,Banka Kartı
+2025-07-06,Şişli,M0075,Kurabiye,Yulaflı Kurabiye,6,20.13,108.7,Üye,Nakit
+2025-07-07,Beşiktaş,M0168,Dondurma,Vanilya Cone,3,46.48,125.5,Üye,Nakit
+2025-07-07,Şişli,M0091,Dondurma,Çikolatalı Top,8,49.86,358.99,Üye,Yemek Kartı
+2025-07-09,Bakırköy,M0085,Pasta,Cheesecake,2,258.65,517.3,Misafir,Nakit
+2025-07-10,Üsküdar,M0152,Dondurma,Meyveli Bardak,4,68.88,275.52,Misafir,Nakit
+2025-07-10,Şişli,M0088,Pasta,Cheesecake,3,268.28,804.84,Misafir,Yemek Kartı
+2025-07-11,Şişli,M0082,İçecek,Espresso,7,51.2,358.4,Misafir,Yemek Kartı
+2025-07-12,Beşiktaş,M0178,İçecek,Espresso,5,47.88,215.46,Üye,Kredi Kartı
+2025-07-13,Bakırköy,M0013,Kek,Limonlu Kek,2,114.56,229.12,Misafir,Nakit
+2025-07-13,Bakırköy,M0074,Pasta,Cheesecake,3,260.33,780.99,Misafir,Kredi Kartı
+2025-07-13,Bakırköy,M0141,Kek,Çikolatalı Kek,5,135.56,610.02,Üye,Nakit
+2025-07-15,Bakırköy,M0103,Pasta,Tiramisu,5,207.59,934.16,Üye,Banka Kartı
+2025-07-16,Üsküdar,M0026,Kek,Çikolatalı Kek,6,129.36,776.16,Misafir,Banka Kartı
+2025-07-17,Beşiktaş,M0118,Dondurma,Vanilya Cone,7,44.77,282.05,Üye,Banka Kartı
+2025-07-18,Üsküdar,M0035,Kurabiye,Yulaflı Kurabiye,2,20.37,40.74,Misafir,Nakit
+2025-07-18,Üsküdar,M0191,Dondurma,Çikolatalı Top,6,51.32,277.13,Üye,Yemek Kartı
+2025-07-19,Üsküdar,M0032,Pasta,Tiramisu,1,188.42,188.42,Misafir,Kredi Kartı
+2025-07-19,Üsküdar,M0080,Kurabiye,Beyaz Çikolatalı,5,31.19,155.95,Misafir,Banka Kartı
+2025-07-21,Kadıköy,M0172,Pasta,Mille Feuille,3,185.71,557.13,Misafir,Kredi Kartı
+2025-07-23,Beşiktaş,M0067,Pasta,Yaş Pasta,5,299.35,1347.08,Üye,Banka Kartı
+2025-07-23,Üsküdar,M0161,Kurabiye,Çikolatalı Kurabiye,6,23.71,142.26,Misafir,Yemek Kartı
+2025-07-23,Kadıköy,M0100,Kurabiye,Beyaz Çikolatalı,3,28.47,85.41,Misafir,Banka Kartı
+2025-07-23,Üsküdar,M0070,İçecek,Sıcak Çikolata,1,71.7,64.53,Üye,Kredi Kartı
+2025-07-24,Beşiktaş,M0149,Kek,Limonlu Kek,6,107.59,580.99,Üye,Nakit
+2025-07-26,Bakırköy,M0051,Kurabiye,Çikolatalı Kurabiye,5,25.23,126.15,Misafir,Yemek Kartı
+2025-07-27,Bakırköy,M0007,Pasta,Cheesecake,6,259.81,1402.97,Üye,Kredi Kartı
+2025-07-27,Bakırköy,M0087,İçecek,Sıcak Çikolata,6,71.86,431.16,Misafir,Yemek Kartı
+2025-07-28,Bakırköy,M0143,Kek,Havuçlu Kek,2,111.62,223.24,Misafir,Kredi Kartı
+2025-07-31,Bakırköy,M0141,Kek,Limonlu Kek,7,98.38,688.66,Misafir,Yemek Kartı
+2025-07-31,Üsküdar,M0188,Dondurma,Vanilya Cone,7,41.85,263.65,Üye,Kredi Kartı
+2025-08-01,Kadıköy,M0002,Kurabiye,Yulaflı Kurabiye,4,19.7,78.8,Misafir,Nakit
+2025-08-03,Kadıköy,M0194,Dondurma,Meyveli Bardak,10,62.23,622.3,Misafir,Nakit
+2025-08-04,Beşiktaş,M0011,Kurabiye,Beyaz Çikolatalı,6,27.56,165.36,Misafir,Yemek Kartı
+2025-08-05,Şişli,M0164,Kurabiye,Çikolatalı Kurabiye,4,24.87,89.53,Üye,Yemek Kartı
+2025-08-06,Bakırköy,M0127,Dondurma,Vanilya Cone,12,44.74,536.88,Misafir,Yemek Kartı
+2025-08-08,Beşiktaş,M0051,Kek,Havuçlu Kek,1,113.14,113.14,Misafir,Kredi Kartı
+2025-08-08,Beşiktaş,M0043,Dondurma,Vanilya Cone,11,44.77,492.47,Misafir,Yemek Kartı
+2025-08-10,Beşiktaş,M0131,Pasta,Cheesecake,2,269.25,538.5,Misafir,Nakit
+2025-08-12,Şişli,M0014,Kek,Limonlu Kek,2,96.89,193.78,Misafir,Yemek Kartı
+2025-08-12,Beşiktaş,M0018,Kurabiye,Yulaflı Kurabiye,5,20.7,93.15,Üye,Banka Kartı
+2025-08-12,Bakırköy,M0136,İçecek,Espresso,5,48.07,240.35,Misafir,Yemek Kartı
+2025-08-13,Beşiktaş,M0130,Kek,Çikolatalı Kek,6,110.78,664.68,Misafir,Kredi Kartı
+2025-08-14,Beşiktaş,M0119,Kek,Havuçlu Kek,2,103.81,186.86,Üye,Nakit
+2025-08-16,Üsküdar,M0034,İçecek,Espresso,8,43.4,347.2,Misafir,Banka Kartı
+2025-08-17,Kadıköy,M0143,Dondurma,Çikolatalı Top,9,45.36,408.24,Misafir,Banka Kartı
+2025-08-17,Beşiktaş,M0104,İçecek,Latte,2,83.21,166.42,Misafir,Banka Kartı
+2025-08-19,Üsküdar,M0138,Dondurma,Vanilya Cone,8,45.15,325.08,Üye,Banka Kartı
+2025-08-21,Kadıköy,M0030,Dondurma,Çikolatalı Top,4,51.41,185.08,Üye,Nakit
+2025-08-22,Kadıköy,M0007,Kek,Çikolatalı Kek,2,133.78,240.8,Üye,Yemek Kartı
+2025-08-24,Kadıköy,M0161,Dondurma,Çikolatalı Top,8,50.97,366.98,Üye,Kredi Kartı
+2025-08-25,Şişli,M0096,İçecek,Sıcak Çikolata,1,68.41,61.57,Üye,Kredi Kartı
+2025-08-26,Üsküdar,M0001,Kek,Çikolatalı Kek,5,129.4,647.0,Misafir,Banka Kartı
+2025-08-28,Üsküdar,M0106,Pasta,Yaş Pasta,8,352.73,2539.66,Üye,Nakit
+2025-08-29,Üsküdar,M0051,Pasta,Yaş Pasta,4,304.08,1216.32,Misafir,Yemek Kartı
+2025-08-30,Kadıköy,M0057,Dondurma,Vanilya Cone,10,46.92,469.2,Misafir,Nakit
+2025-09-02,Şişli,M0091,Kek,Havuçlu Kek,5,121.55,546.98,Üye,Banka Kartı
+2025-09-02,Beşiktaş,M0059,Pasta,Mille Feuille,7,164.04,1148.28,Misafir,Banka Kartı
+2025-09-03,Kadıköy,M0011,Kurabiye,Yulaflı Kurabiye,1,17.33,17.33,Misafir,Nakit
+2025-09-03,Bakırköy,M0126,Pasta,Yaş Pasta,8,298.23,2147.26,Üye,Yemek Kartı
+2025-09-03,Bakırköy,M0031,Dondurma,Çikolatalı Top,8,49.88,399.04,Misafir,Kredi Kartı
+2025-09-04,Şişli,M0122,Kurabiye,Yulaflı Kurabiye,4,17.04,61.34,Üye,Kredi Kartı
+2025-09-04,Beşiktaş,M0175,İçecek,Filtre Kahve,4,56.38,202.97,Üye,Yemek Kartı
+2025-09-04,Beşiktaş,M0116,Kek,Limonlu Kek,5,96.47,434.12,Üye,Yemek Kartı
+2025-09-05,Bakırköy,M0066,Kurabiye,Çikolatalı Kurabiye,5,24.21,108.94,Üye,Banka Kartı
+2025-09-05,Şişli,M0007,Pasta,Tiramisu,8,187.76,1351.87,Üye,Banka Kartı
+2025-09-07,Beşiktaş,M0033,Kurabiye,Beyaz Çikolatalı,7,26.88,188.16,Misafir,Kredi Kartı
+2025-09-09,Üsküdar,M0021,İçecek,Sıcak Çikolata,6,69.8,418.8,Misafir,Kredi Kartı
+2025-09-10,Şişli,M0043,Kek,Limonlu Kek,3,115.48,346.44,Misafir,Kredi Kartı
+2025-09-14,Kadıköy,M0136,Kek,Havuçlu Kek,6,115.31,691.86,Misafir,Yemek Kartı
+2025-09-15,Bakırköy,M0186,Kek,Limonlu Kek,7,94.79,597.18,Üye,Yemek Kartı
+2025-09-16,Beşiktaş,M0009,Kurabiye,Yulaflı Kurabiye,4,20.13,80.52,Misafir,Yemek Kartı
+2025-09-18,Kadıköy,M0164,Kurabiye,Çikolatalı Kurabiye,1,24.96,22.46,Üye,Nakit
+2025-09-19,Bakırköy,M0052,İçecek,Latte,3,79.06,237.18,Misafir,Nakit
+2025-09-20,Bakırköy,M0132,Pasta,Tiramisu,8,206.74,1488.53,Üye,Yemek Kartı
+2025-09-20,Kadıköy,M0105,Dondurma,Meyveli Bardak,6,69.22,373.79,Üye,Nakit
+2025-09-21,Üsküdar,M0082,Kek,Limonlu Kek,2,113.64,227.28,Misafir,Nakit
+2025-09-22,Beşiktaş,M0039,Dondurma,Vanilya Cone,7,42.35,266.81,Üye,Yemek Kartı
+2025-09-24,Beşiktaş,M0007,Pasta,Yaş Pasta,6,361.54,2169.24,Misafir,Banka Kartı
+2025-09-24,Kadıköy,M0021,İçecek,Latte,8,92.83,668.38,Üye,Yemek Kartı
+2025-09-24,Şişli,M0013,Kurabiye,Çikolatalı Kurabiye,1,24.87,24.87,Misafir,Yemek Kartı
+2025-09-26,Kadıköy,M0024,Pasta,Cheesecake,4,269.26,969.34,Üye,Kredi Kartı
+2025-09-27,Üsküdar,M0200,İçecek,Filtre Kahve,3,56.81,170.43,Misafir,Nakit
+2025-09-29,Üsküdar,M0192,Kek,Limonlu Kek,3,96.79,261.33,Üye,Kredi Kartı
+2025-09-30,Şişli,M0012,Pasta,Mille Feuille,6,174.43,1046.58,Misafir,Kredi Kartı
+2025-10-02,Üsküdar,M0110,Pasta,Tiramisu,7,201.42,1268.95,Üye,Nakit
+2025-10-02,Bakırköy,M0177,Kek,Çikolatalı Kek,2,115.48,207.86,Üye,Banka Kartı
+2025-10-02,Beşiktaş,M0099,Kek,Limonlu Kek,3,105.26,284.2,Üye,Nakit
+2025-10-05,Üsküdar,M0145,İçecek,Espresso,6,47.91,287.46,Misafir,Kredi Kartı
+2025-10-06,Üsküdar,M0188,Kek,Limonlu Kek,2,107.7,215.4,Misafir,Banka Kartı
+2025-10-09,Üsküdar,M0055,Dondurma,Meyveli Bardak,7,66.75,420.53,Üye,Kredi Kartı
+2025-10-09,Üsküdar,M0131,Kurabiye,Beyaz Çikolatalı,1,28.51,25.66,Üye,Yemek Kartı
+2025-10-10,Bakırköy,M0052,Kurabiye,Çikolatalı Kurabiye,1,21.86,21.86,Misafir,Yemek Kartı
+2025-10-11,Şişli,M0091,İçecek,Filtre Kahve,7,62.6,394.38,Üye,Yemek Kartı
+2025-10-11,Beşiktaş,M0073,İçecek,Sıcak Çikolata,6,78.27,422.66,Üye,Yemek Kartı
+2025-10-12,Şişli,M0107,Kurabiye,Çikolatalı Kurabiye,6,22.28,120.31,Üye,Yemek Kartı
+2025-10-15,Üsküdar,M0049,Dondurma,Çikolatalı Top,1,45.81,45.81,Misafir,Yemek Kartı
+2025-10-17,Beşiktaş,M0035,İçecek,Sıcak Çikolata,6,77.86,420.44,Üye,Kredi Kartı
+2025-10-18,Üsküdar,M0184,Dondurma,Çikolatalı Top,2,48.35,87.03,Üye,Banka Kartı
+2025-10-18,Beşiktaş,M0171,Pasta,Tiramisu,2,215.05,387.09,Üye,Nakit
+2025-10-19,Bakırköy,M0028,İçecek,Filtre Kahve,8,55.29,398.09,Üye,Yemek Kartı
+2025-10-19,Kadıköy,M0132,İçecek,Filtre Kahve,6,59.24,355.44,Misafir,Nakit
+2025-10-20,Şişli,M0170,İçecek,Latte,3,89.67,242.11,Üye,Banka Kartı
+2025-10-22,Bakırköy,M0003,Dondurma,Meyveli Bardak,8,67.1,483.12,Üye,Yemek Kartı
+2025-10-22,Bakırköy,M0019,Kek,Çikolatalı Kek,8,129.14,929.81,Üye,Kredi Kartı
+2025-10-25,Üsküdar,M0062,İçecek,Espresso,5,49.72,223.74,Üye,Yemek Kartı
+2025-10-25,Bakırköy,M0046,Dondurma,Vanilya Cone,5,44.73,201.28,Üye,Yemek Kartı
+2025-10-27,Bakırköy,M0002,Pasta,Tiramisu,8,188.6,1508.8,Misafir,Kredi Kartı
+2025-10-27,Bakırköy,M0070,İçecek,Latte,3,92.64,250.13,Üye,Yemek Kartı
+2025-10-27,Şişli,M0109,Pasta,Tiramisu,2,198.48,357.26,Üye,Banka Kartı
+2025-10-27,Kadıköy,M0177,İçecek,Filtre Kahve,7,61.95,433.65,Misafir,Nakit
+2025-10-28,Beşiktaş,M0015,Kek,Limonlu Kek,6,113.98,683.88,Misafir,Yemek Kartı
+2025-10-29,Üsküdar,M0161,İçecek,Filtre Kahve,4,61.64,246.56,Misafir,Nakit
+2025-10-29,Beşiktaş,M0188,Pasta,Tiramisu,8,224.73,1797.84,Misafir,Kredi Kartı
+2025-10-29,Üsküdar,M0127,İçecek,Espresso,8,45.12,324.86,Üye,Banka Kartı
+2025-10-30,Üsküdar,M0086,Kurabiye,Yulaflı Kurabiye,6,18.67,112.02,Misafir,Yemek Kartı
+2025-10-30,Beşiktaş,M0081,Dondurma,Çikolatalı Top,4,51.01,183.64,Üye,Yemek Kartı
+2025-10-31,Kadıköy,M0110,Pasta,Tiramisu,5,191.36,956.8,Misafir,Banka Kartı
+2025-11-02,Üsküdar,M0048,İçecek,Latte,7,77.64,489.13,Üye,Nakit
+2025-11-02,Bakırköy,M0113,Dondurma,Vanilya Cone,1,38.4,34.56,Üye,Kredi Kartı
+2025-11-03,Bakırköy,M0184,İçecek,Filtre Kahve,3,57.61,155.55,Üye,Banka Kartı
+2025-11-07,Beşiktaş,M0157,Pasta,Yaş Pasta,4,310.66,1118.38,Üye,Nakit
+2025-11-07,Kadıköy,M0104,Dondurma,Vanilya Cone,2,41.04,82.08,Misafir,Yemek Kartı
+2025-11-07,Üsküdar,M0104,Dondurma,Vanilya Cone,3,43.28,129.84,Misafir,Nakit
+2025-11-08,Beşiktaş,M0101,Kek,Limonlu Kek,6,107.24,643.44,Misafir,Kredi Kartı
+2025-11-13,Üsküdar,M0196,Kurabiye,Yulaflı Kurabiye,1,19.34,19.34,Misafir,Banka Kartı
+2025-11-14,Beşiktaş,M0166,Pasta,Mille Feuille,3,158.97,429.22,Üye,Nakit
+2025-11-16,Kadıköy,M0086,Kurabiye,Yulaflı Kurabiye,7,18.46,116.3,Üye,Banka Kartı
+2025-11-16,Beşiktaş,M0096,Dondurma,Vanilya Cone,3,44.86,134.58,Misafir,Nakit
+2025-11-19,Bakırköy,M0123,Dondurma,Çikolatalı Top,5,43.47,195.62,Üye,Banka Kartı
+2025-11-19,Kadıköy,M0035,İçecek,Filtre Kahve,3,62.24,186.72,Misafir,Banka Kartı
+2025-11-20,Şişli,M0121,Kek,Limonlu Kek,1,109.49,98.54,Üye,Kredi Kartı
+2025-11-22,Şişli,M0068,Kek,Limonlu Kek,6,97.18,583.08,Misafir,Nakit
+2025-11-24,Bakırköy,M0137,Kek,Çikolatalı Kek,2,124.98,249.96,Misafir,Banka Kartı
+2025-11-27,Beşiktaş,M0114,Kurabiye,Beyaz Çikolatalı,5,26.15,130.75,Misafir,Nakit
+2025-11-27,Kadıköy,M0156,Kek,Çikolatalı Kek,4,123.03,492.12,Misafir,Banka Kartı
+2025-11-28,Şişli,M0200,İçecek,Sıcak Çikolata,3,65.65,177.25,Üye,Banka Kartı
+2025-11-29,Üsküdar,M0103,Kek,Çikolatalı Kek,7,115.7,809.9,Misafir,Nakit
+2025-11-30,Kadıköy,M0005,Kurabiye,Çikolatalı Kurabiye,4,24.1,86.76,Üye,Kredi Kartı
+2025-12-01,Üsküdar,M0084,Kek,Çikolatalı Kek,8,123.89,892.01,Üye,Yemek Kartı
+2025-12-01,Beşiktaş,M0088,Pasta,Yaş Pasta,7,319.2,2010.96,Üye,Yemek Kartı
+2025-12-02,Kadıköy,M0129,Pasta,Yaş Pasta,5,315.89,1579.45,Misafir,Nakit
+2025-12-02,Beşiktaş,M0026,Kek,Çikolatalı Kek,7,125.47,790.46,Üye,Nakit
+2025-12-05,Üsküdar,M0041,İçecek,Filtre Kahve,5,52.12,234.54,Üye,Yemek Kartı
+2025-12-05,Üsküdar,M0018,Pasta,Yaş Pasta,8,335.14,2413.01,Üye,Yemek Kartı
+2025-12-06,Şişli,M0005,Dondurma,Çikolatalı Top,4,46.92,187.68,Misafir,Kredi Kartı
+2025-12-06,Kadıköy,M0105,Dondurma,Meyveli Bardak,7,67.35,471.45,Misafir,Banka Kartı
+2025-12-06,Üsküdar,M0026,Kurabiye,Yulaflı Kurabiye,4,18.68,67.25,Üye,Kredi Kartı
+2025-12-09,Kadıköy,M0100,İçecek,Latte,5,90.48,452.4,Misafir,Kredi Kartı
+2025-12-09,Beşiktaş,M0183,Kurabiye,Çikolatalı Kurabiye,8,22.02,158.54,Üye,Nakit
+2025-12-11,Bakırköy,M0084,Kurabiye,Beyaz Çikolatalı,7,27.06,189.42,Misafir,Yemek Kartı
+2025-12-12,Kadıköy,M0031,Pasta,Mille Feuille,6,155.95,842.13,Üye,Banka Kartı
+2025-12-12,Şişli,M0136,İçecek,Espresso,8,42.63,306.94,Üye,Nakit
+2025-12-13,Üsküdar,M0082,Kurabiye,Yulaflı Kurabiye,8,19.98,159.84,Misafir,Kredi Kartı
+2025-12-14,Beşiktaş,M0199,Kek,Çikolatalı Kek,7,119.77,754.55,Üye,Nakit
+2025-12-15,Beşiktaş,M0029,Kek,Limonlu Kek,1,94.04,94.04,Misafir,Kredi Kartı
+2025-12-15,Üsküdar,M0042,Pasta,Yaş Pasta,3,331.5,994.5,Misafir,Kredi Kartı
+2025-12-15,Üsküdar,M0102,Dondurma,Meyveli Bardak,8,68.78,495.22,Üye,Banka Kartı
+2025-12-16,Şişli,M0146,Pasta,Yaş Pasta,1,304.27,304.27,Misafir,Nakit
+2025-12-17,Kadıköy,M0079,Kurabiye,Yulaflı Kurabiye,2,18.51,33.32,Üye,Yemek Kartı
+2025-12-17,Üsküdar,M0120,Dondurma,Çikolatalı Top,7,43.33,272.98,Üye,Yemek Kartı
+2025-12-20,Üsküdar,M0122,İçecek,Filtre Kahve,5,56.77,283.85,Misafir,Nakit
+2025-12-20,Üsküdar,M0198,Pasta,Cheesecake,4,290.31,1161.24,Misafir,Banka Kartı
+2025-12-20,Şişli,M0102,Kurabiye,Çikolatalı Kurabiye,5,24.68,111.06,Üye,Kredi Kartı
+2025-12-21,Kadıköy,M0196,Pasta,Cheesecake,8,280.38,2018.74,Üye,Kredi Kartı
+2025-12-21,Bakırköy,M0055,Pasta,Cheesecake,5,244.62,1100.79,Üye,Kredi Kartı
+2025-12-22,Şişli,M0086,Dondurma,Vanilya Cone,2,45.49,90.98,Misafir,Banka Kartı
+2025-12-22,Beşiktaş,M0200,İçecek,Espresso,4,48.22,192.88,Misafir,Nakit
+2025-12-23,Şişli,M0035,Dondurma,Çikolatalı Top,5,48.14,240.7,Misafir,Banka Kartı
+2025-12-28,Şişli,M0081,Pasta,Yaş Pasta,5,302.61,1361.74,Üye,Yemek Kartı
+2025-12-29,Üsküdar,M0142,Dondurma,Çikolatalı Top,2,51.64,103.28,Misafir,Nakit
+2025-12-30,Şişli,M0059,Kek,Çikolatalı Kek,8,117.52,940.16,Misafir,Banka Kartı
+2025-12-30,Kadıköy,M0079,Kurabiye,Yulaflı Kurabiye,8,20.8,166.4,Misafir,Banka Kartı
+2025-12-31,Kadıköy,M0157,Dondurma,Meyveli Bardak,4,66.26,265.04,Misafir,Banka Kartı
+2025-12-31,Üsküdar,M0173,Kurabiye,Beyaz Çikolatalı,3,26.61,79.83,Misafir,Banka Kartı
